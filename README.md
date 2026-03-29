@@ -47,7 +47,7 @@ This repository is designed to make Taiwan market API coverage easier to discove
 
 ## Links
 
-- Website: https://kun.pro/markets/taiwan-stock-market-api
+- Website: https://kun.pro/stocks-en.html
 - Docs: https://kun.pro/docs-en.html
 - Main site: https://kun.pro
 
