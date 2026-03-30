@@ -8,9 +8,9 @@ Kun Data provides a token-authenticated API stack for developers who need Taiwan
 
 This repository is focused on Taiwan coverage with support for FTSE, TPEX and is designed for teams building broker dashboards, watchlists, quant tools, stock screeners, mobile apps, and market overview pages.
 
-## Why Developers Search For This
+## Common Integration Needs
 
-Developers usually need one or more of these:
+Most teams integrating market data need one or more of these capabilities:
 
 - Real-time Taiwan stock market API
 - WebSocket streaming quotes
@@ -69,10 +69,6 @@ The current API stack follows a straightforward model:
 - Snapshot requests support `market`, `venue`, `symbol`, `symbols`, `ticker`, and `tickers`
 - WebSocket subscriptions support market-wide, exchange-level, and symbol-level subscriptions
 - HTTP requests can use bearer authentication and WebSocket connections use token query auth
-
-## SEO Keywords
-
-`Taiwan stock market API | Taiwan stock data API | TPEX API | Taiwan OHLCV API`
 
 ## Links
 
